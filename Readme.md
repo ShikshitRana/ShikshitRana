@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shikshit Rana</h1>
-<h3 align="center">A budding fullstack developer from India</h3>
+<h3 align="center"></h3>
 
 
 ## 🌐 Socials:
